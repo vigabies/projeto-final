@@ -1,4 +1,4 @@
-# Projeto Final: Quiz Conhecimentos Gerais
+# Projeto Final: Quiz Interativo
 
 <h3>Módulo - Bootcamp Desenvolvimento Web Responsivo</h3>
  
